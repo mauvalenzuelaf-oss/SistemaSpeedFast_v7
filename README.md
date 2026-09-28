@@ -712,3 +712,7 @@ Esto permite cerrar y volver a ejecutar la aplicación sin perder los pedidos, r
 
 ---
 
+**Repositorio GitHub:** https://github.com/mauvalenzuelaf-oss/SistemaSpeedFast_v7
+
+**Fecha de Entrega:** 28/09/2026
+
