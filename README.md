@@ -12,7 +12,7 @@
 
 ## 📘 Descripción general del sistema
 
-Este proyecto corresponde a la **Actividad Formativa de la Semana 7** de la asignatura **Desarrollo Orientado a Objetos II**.
+Este proyecto corresponde a la **Actividad Formativa N° 5** de la asignatura **Desarrollo Orientado a Objetos II**.
 
 Se trata de la séptima etapa de **SistemaSpeedFast**, una aplicación desarrollada en Java para representar la gestión de pedidos de la empresa de reparto a domicilio **Speed Fast**.
 
